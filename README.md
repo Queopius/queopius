@@ -80,7 +80,7 @@ Like My Work?
 #
 
 ------------
-
+![README build](https://github.com/Queopius/queopius/workflows/README%20build/badge.svg)
 <p align="center">
 	<img src="https://github.com/Queopius/queopius/workflows/README%20build/badge.svg" /> 
 	<img alt="Stars" src="https://img.shields.io/github/stars/queopius/queopius?style=flat-square&labelColor=343b41"/> 
