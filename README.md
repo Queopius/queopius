@@ -88,6 +88,8 @@ Like My Work?
 ### Show some ❤️ by starring some of the repositories!
 
 <img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" />
+<img src="https://img.shields.io/badge/TDD-Advocate-_.svg">
+<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg">
 
 </div>
 
