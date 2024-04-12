@@ -83,14 +83,15 @@ Like My Work?
 #
 
 <div align="center">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" /> </p>
-
 </div>
 
 #
+
 <div align="center">
+	
 ### Show some ❤️ by starring some of the repositories!
+
 </div>
 
 <!-- prettier-ignore-end -->
