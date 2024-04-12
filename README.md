@@ -3,6 +3,7 @@
   Hello there! I'm Queopius A.S.
 </h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Queopius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queopius/)](https://www.linkedin.com/in/queopius/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/queopius) 
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
 [![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/queopius/?tab=follow)
@@ -18,7 +19,9 @@ I am a developer with over 8 years of experience in technology, specializing in 
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/queopius" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/queopius" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+</a>
 
 
 ## 🧐 About
