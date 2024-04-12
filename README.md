@@ -58,13 +58,13 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
+  	    <li><b>OS:</b> Ubuntu 20.04 LTS (Focal Fossa) </li>
+	    <li><b>Laptop: </b> MSI GF75</li>
+  	    <li><b>Browser: </b> Chrome & Firefox</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+ 	    <li><b>Other Tools:</b> Postman, Jenkins, Slack and Laravel</li>
+	    <li><b>To Stay Updated:</b> Linkedin, Publishing of Tips for Developers</li>
 	</ul>
 </details>
 
@@ -83,5 +83,4 @@ Like My Work?
 [fantomid]: https://github.com/Fantomid-LLC "Fantomid Github Home"
 [issues page]: https://github.com/Queopius/queopius/issues "Queopius/issues"
 [linkedin]: https://www.linkedin.com/in/queopius "Queopius A.S. LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
 [dev]: https://dev.to/queopius "Dev"
