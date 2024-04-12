@@ -64,7 +64,7 @@ Like My Work?
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=queopius&hide_border=true" />
-  <img height="100" src="https://github-profile-trophy.vercel.app/?username=queopius&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=queopius&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
 </details>
 
 <details>
