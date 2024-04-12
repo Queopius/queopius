@@ -31,9 +31,7 @@ Like My Work?
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br />
-
-
+<br /><br />
 
 <h2 align="left" id="queopius-tech">⚡ Favorite Tech</h2>
 
@@ -58,7 +56,7 @@ Like My Work?
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-
+<br />
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
