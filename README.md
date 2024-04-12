@@ -8,6 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/queopius/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-dev.queopius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.queopius@gmail.com)](mailto:dev.queopius@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" /> </p>
+
 I am a developer with over 8 years of experience in technology, specializing in web application development using the Laravel PHP framework. Additionally, I have deep knowledge in a variety of information technologies, including DDD, Microservices, phpunit, tdd, mysql, docker, git, github, jenkins, ci/cd, php, linux, UML, ApiRestful, Api Swagger, Postman, Jira, PMP, vue, and bootstrap. I have served as a Tech Lead for over 3 years, leading software development teams and projects through all stages of the software development lifecycle.
 
 ![downloads](https://img.shields.io/github/downloads/Queopius/queopius/total.svg)
