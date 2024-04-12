@@ -9,7 +9,7 @@ I am a developer with over 8 years of experience in technology, specializing in 
 ![issues](https://img.shields.io/github/issues/Queopius/queopius.svg)
 
 <a href="#queopius-title">
-  <img src="https://github-readme-stats.vercel.app/api?Queopius={Queopius}&theme=blue-green" alt="queopius" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=queopius&show_icons=true&theme=transparent" alt="queopius" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[fantomid]**
