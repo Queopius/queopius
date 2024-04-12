@@ -19,7 +19,6 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/queopius" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<br>
 
 ## 🧐 About
 
@@ -32,6 +31,7 @@ Like My Work?
 - :book: &nbsp;Learn more about my projects on my **[dev]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+
 
 <h2 align="left" id="queopius-tech">⚡ Favorite Tech</h2>
 
