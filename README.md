@@ -13,6 +13,7 @@ I am a developer with over 8 years of experience in technology, specializing in 
 
 ![issues](https://img.shields.io/github/issues/queopius/queopius.svg)
 ![GitHub Downloads (specific asset, specific tag)](https://img.shields.io/github/downloads/queopius/queopius/README.md)
+![GitHub watchers](https://img.shields.io/github/watchers/queopius/queopius)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" /> </p>
 
 Like My Work?
