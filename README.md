@@ -18,11 +18,12 @@ Like My Work?
 
 <br>
 
+
+## 🧐 About
+
 <a href="#queopius-title">
   <img src="https://github-readme-stats.vercel.app/api?username=queopius&show_icons=true&theme=transparent" alt="queopius" align="right" />
 </a>
-
-## 🧐 About
 
 - :office: &nbsp;I'm currently working at **[fantomid]**
 - :speech_balloon: &nbsp;I like to talk about **Clean Code** and **Laravel**
