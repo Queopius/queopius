@@ -3,10 +3,14 @@
   Hello there! I'm Queopius A.S.
 </h1>
 
+<br>
+
 I am a developer with over 8 years of experience in technology, specializing in web application development using the Laravel PHP framework. Additionally, I have deep knowledge in a variety of information technologies, including DDD, Microservices, phpunit, tdd, mysql, docker, git, github, jenkins, ci/cd, php, linux, UML, ApiRestful, Api Swagger, Postman, Jira, PMP, vue, and bootstrap. I have served as a Tech Lead for over 3 years, leading software development teams and projects through all stages of the software development lifecycle.
 
 ![downloads](https://img.shields.io/github/downloads/Queopius/queopius/total.svg)
 ![issues](https://img.shields.io/github/issues/Queopius/queopius.svg)
+
+<br>
 
 <a href="#queopius-title">
   <img src="https://github-readme-stats.vercel.app/api?username=queopius&show_icons=true&theme=transparent" alt="queopius" align="right" />
