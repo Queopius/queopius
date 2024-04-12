@@ -4,7 +4,6 @@
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Queopius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queopius/)](https://www.linkedin.com/in/queopius/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/queopius) 
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
 [![GitHub followers](https://img.shields.io/github/followers/queopius?label=Follow&style=social)](https://github.com/queopius/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-dev.queopius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.queopius@gmail.com)](mailto:dev.queopius@gmail.com)
@@ -15,7 +14,7 @@ I am a developer with over 8 years of experience in technology, specializing in 
 ![issues](https://img.shields.io/github/issues/queopius/queopius.svg)
 ![GitHub Downloads (specific asset, specific tag)](https://img.shields.io/github/downloads/queopius/queopius/README.md)
 ![GitHub watchers](https://img.shields.io/github/watchers/queopius/queopius)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" /> </p>
+
 
 Like My Work?
 
@@ -84,6 +83,8 @@ Like My Work?
 </details>
 
 #
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" /> </p>
 
 <div align="center">
 
