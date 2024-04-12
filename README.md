@@ -3,7 +3,9 @@
   Hello there! I'm Queopius A.S.
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/queopius) ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://img.shields.io/static/v1?label=wechat&message=queopius&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/queopius)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/queopius) 
+![status](https://img.shields.io/badge/status-up-brightgreen) 
+[![Gmail Badge](https://img.shields.io/badge/-dev.queopius@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.queopius@gmail.com)](mailto:dev.queopius@gmail.com)
 
 I am a developer with over 8 years of experience in technology, specializing in web application development using the Laravel PHP framework. Additionally, I have deep knowledge in a variety of information technologies, including DDD, Microservices, phpunit, tdd, mysql, docker, git, github, jenkins, ci/cd, php, linux, UML, ApiRestful, Api Swagger, Postman, Jira, PMP, vue, and bootstrap. I have served as a Tech Lead for over 3 years, leading software development teams and projects through all stages of the software development lifecycle.
 
@@ -27,6 +29,7 @@ Like My Work?
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
+
 
 <h2 align="left" id="queopius-tech">⚡ Favorite Tech</h2>
 
