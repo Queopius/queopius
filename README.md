@@ -79,14 +79,6 @@ Like My Work?
 
 #
 
-------------
-![README build](https://github.com/Queopius/queopius/workflows/README%20build/badge.svg)
-<p align="center">
-	<img src="https://github.com/Queopius/queopius/workflows/README%20build/badge.svg" /> 
-	<img alt="Stars" src="https://img.shields.io/github/stars/queopius/queopius?style=flat-square&labelColor=343b41"/> 
-	<img alt="Forks" src="https://img.shields.io/github/forks/queopius/thmsgbrt?style=flat-square&labelColor=343b41"/>
-</p>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
