@@ -34,6 +34,7 @@ Like My Work?
 <br />
 
 
+
 <h2 align="left" id="queopius-tech">⚡ Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -56,6 +57,7 @@ Like My Work?
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
