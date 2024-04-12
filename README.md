@@ -7,6 +7,7 @@ I am a developer with over 8 years of experience in technology, specializing in 
 
 ![downloads](https://img.shields.io/github/downloads/Queopius/queopius/total.svg)
 ![followers]((https://img.shields.io/github/followers/Queopius.svg?style=social&label=Follow&maxAge=2592000))
+![issues](https://img.shields.io/github/issues/Queopius/queopius.svg)
 <p align="left">
   <a href="https://github.com/Queopius?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/https%3A%2F%2Fgithub.com%2FQueopius%3Ftab%3Dfollowers">
