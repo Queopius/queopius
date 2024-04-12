@@ -78,6 +78,8 @@ Like My Work?
  	    <li><b>Other Tools:</b> Postman, Jenkins, Slack and Laravel</li>
 	    <li><b>To Stay Updated:</b> Linkedin, Publishing of Tips for Developers</li>
 	</ul>
+
+ <img height="100" src="https://github-profile-trophy.vercel.app/?username=queopius&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
 </details>
 
 
