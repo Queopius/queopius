@@ -80,17 +80,14 @@ Like My Work?
 	</ul>
 </details>
 
-#
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" />
-</div>
 
 #
 
 <div align="center">
 	
 ### Show some ❤️ by starring some of the repositories!
+
+<img src="https://komarev.com/ghpvc/?username=Queopius" alt="Queopius" />
 
 </div>
 
