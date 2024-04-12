@@ -18,7 +18,7 @@ I am a developer with over 8 years of experience in technology, specializing in 
 </p>
 
 <a href="#queopius-title">
-  <img src="https://raw.githubusercontent.com/Queopius/github-stats-transparent/output/generated/overview.svg" alt="queopius" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?Queopius=Queopius&theme=blue-green" alt="queopius" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[fantomid]**
