@@ -22,7 +22,7 @@ Like My Work?
   <img src="https://github-readme-stats.vercel.app/api?username=queopius&show_icons=true&theme=transparent" alt="queopius" align="right" />
 </a>
 
-<h2 align="left" id="queopius-tech">🧐 About</h2>
+### 🧐 About
 
 - :office: &nbsp;I'm currently working at **[fantomid]**
 - :speech_balloon: &nbsp;I like to talk about **Clean Code** and **Laravel**
