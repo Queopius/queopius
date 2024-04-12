@@ -32,6 +32,8 @@ Like My Work?
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br />
+
+
 <h2 align="left" id="queopius-tech">⚡ Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
