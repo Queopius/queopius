@@ -10,7 +10,9 @@
 ![issues](https://img.shields.io/github/issues/queopius/queopius.svg)
 
 
-I am a developer with over 8 years of experience in technology, specializing in web application development using the Laravel PHP framework. Additionally, I have deep knowledge in a variety of information technologies, including DDD, Microservices, phpunit, tdd, mysql, docker, git, github, jenkins, ci/cd, php, linux, UML, ApiRestful, Api Swagger, Postman, Jira, PMP, vue, and bootstrap. I have served as a Tech Lead for over 3 years, leading software development teams and projects through all stages of the software development lifecycle.
+I am a developer with more than 8 years of experience, specialized in web application development using the Laravel PHP framework.  
+
+Beyond my professional activities, I am also passionate about Capoeira, where I serve as a teacher, and I like to play the guitar in my spare time.
 
 
 
