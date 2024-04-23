@@ -12,6 +12,8 @@
 
 I am a developer with more than 8 years of experience, specialized in web application development using the Laravel PHP framework.  
 
+Throughout my career, I've taken on roles as a Tech Lead for more than 3 years, where I've led software development teams and guided projects through all stages of the software development lifecycle.
+
 Beyond my professional activities, I am also passionate about Capoeira, where I serve as a teacher, and I like to play the guitar in my spare time.
 
 
